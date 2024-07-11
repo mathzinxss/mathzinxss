@@ -8,6 +8,6 @@
 
 <div id="spotify">
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=srwr3gzbnrzh3rssanmqfdgkn&unique={true|1|on|yes})
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=srwr3gzbnrzh3rssanmqfdgkn&width={width})
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=srwr3gzbnrzh3rssanmqfdgkn&unique={true|1|on|yes})
 </div>
