@@ -61,7 +61,7 @@
 <div align="center">
   <a href="https://open.spotify.com/user/dev.mtz">
     
-    [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=dev.mtz&width=600)
     
   </a>
 </div>
