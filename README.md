@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/m4thznx?igsh=MXZvc3c4dTF1dGtmbA==" target="_blank">
+  <a href="https://www.instagram.com/math.keysz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://contate.me/devmathznxs" target="_blank">
