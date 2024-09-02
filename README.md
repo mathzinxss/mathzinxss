@@ -6,9 +6,7 @@
 
 ###
 
-<h2 align="left">Tech</h2>
-
-<p align="left">Hello World!!</p>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -32,7 +30,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Estatistica</h2>
 
 ###
 
@@ -44,7 +42,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Mídias Sociais</h2>
 
 ###
 
