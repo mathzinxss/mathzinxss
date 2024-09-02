@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Estatistica</h2>
+<h2 align="left">Estatísticas</h2>
 
 ###
 
