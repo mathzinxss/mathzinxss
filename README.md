@@ -1,8 +1,8 @@
-<h2 align="left">About Me!</h2>
+<h2 align="left">Olá, sou o Mathias👋</h2>
 
 ###
 
-<p align="left">- Python Developer<br><br>-Studying Web Application Development at Senac</p>
+<p align="left">Sou programador com 1 ano de experiência, focado em aprender e evoluir constantemente. Comecei com Python e agora estou cursando Desenvolvimento de Aplicações Web com JavaScript, além de estudar lógica de programação com Portugol e C. Estou sempre em busca de novos desafios e soluções criativas.</p>
 
 ###
 
