@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou o Mathias👋</h2>
+<h2 align="left">Olá, sou o Mathias </h2>
 
 ###
 
