@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou programador com 1 ano de experiência, focado em aprender e evoluir constantemente. Comecei com Python e agora estou cursando Desenvolvimento de Aplicações Web com JavaScript, além de estudar lógica de programação com Portugol e C. Estou sempre em busca de novos desafios e soluções criativas.</p>
+<p align="left">Sou estudante de Aplicação de Desenvolvimento Web no Senac, com conhecimento em HTML, CSS, JavaScript, PHP e banco de dados com C# e SQL. Tenho uma base sólida em lógica de programação, adquirida através do Portugol Studio e C. Além disso, já estudei Python e continuo buscando aprimorar minhas habilidades em diferentes tecnologias para projetos web.</p>
 
 ###
 
@@ -25,6 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
 
